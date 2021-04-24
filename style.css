@@ -1,8 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Train+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,100&display=swap');
 
 .body{
-    font-family: 'Train One', cursive;
+    font-family: 'Montserrat', sans-serif;
     text-align: center;
+    background-color: #001F29;
 }
 .title {
     font-size: 15pt;
@@ -11,4 +12,5 @@ button{
     font-size: 15pt;
     padding: 10px;
     border-radius: 20px;
+    font-family: 'Montserrat', sans-serif;
 }
