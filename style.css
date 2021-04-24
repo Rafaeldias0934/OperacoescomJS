@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Train+One&display=swap');
+
+.body{
+    font-family: 'Train One', cursive;
+    text-align: center;
+}
+.title {
+    font-size: 15pt;
+}
+button{
+    font-size: 15pt;
+    padding: 10px;
+    border-radius: 20px;
+}
