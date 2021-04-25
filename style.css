@@ -11,8 +11,19 @@
     font-size: 15pt;
     color: #f9c8d8;
 }
-button{
-    font-size: 15pt;
+.box {
+    font-size: 17pt;
+    padding: 10px;
+    border-radius: 20px;
+    font-family: 'Montserrat', sans-serif;
+    color: #f12487;
+    border-width: medium;
+    border-style:outset;
+    border-color: #ffffff;
+    background-color: #ffffff;
+}
+.box:hover {
+    font-size: 17pt;
     padding: 10px;
     border-radius: 20px;
     font-family: 'Montserrat', sans-serif;
@@ -26,5 +37,5 @@ button{
     font-size: 17pt;
 }
 .baseboard {
-    padding-top: 270pt;
+    padding-top: 230pt;
 }
